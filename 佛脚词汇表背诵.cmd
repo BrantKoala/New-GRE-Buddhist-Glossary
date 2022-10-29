@@ -1,1 +1,1 @@
-python main.py
+python glossary_reciter.py New_GRE_Buddhist_Glossary.csv
